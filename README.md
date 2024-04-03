@@ -1,8 +1,8 @@
 **Financial parameters of the bank**
-The bank had applied loan amount of: 436 Million $.
-The bank had sanctioned loan amount of: 370 Million $.
-The bank had disbursed loan amount of: 351 Million $.
-The bank recovered a total amount of: 473 Million $.
+- The bank had applied loan amount of: 436 Million $.
+- The bank had sanctioned loan amount of: 370 Million $.
+- The bank had disbursed loan amount of: 351 Million $.
+- The bank recovered a total amount of: 473 Million $.
 
 **Insights drawn from the dataset by using Power BI:**
 -NPA constituted to around 14% of the total loan applications.
